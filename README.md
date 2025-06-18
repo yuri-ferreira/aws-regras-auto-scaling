@@ -1,0 +1,1 @@
+# aws-regras-auto-scaling
