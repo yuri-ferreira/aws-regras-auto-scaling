@@ -5,10 +5,10 @@
 - [Security Groups](#Security-Groups)
 - [Modelo de Execução](#Modelo-de-Execução)
 - [Load Balancer](#Load-Balancer)
-- [Auto Scaling](Auto-Scaling)
-- [CloudWatch](CloudWatch)
-- [Regras de Escala](CloudWatch)
-- [Testar o auto scaling](CloudWatch)
+- [Auto Scaling](#Auto-Scaling)
+- [CloudWatch](#CloudWatch)
+- [Regras de Escala](#Criar-as-regras-de-escalonamento)
+- [Testar o auto scaling](#Testar-o-auto-scaling)
 
 ---
 
